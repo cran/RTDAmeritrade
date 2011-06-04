@@ -1,0 +1,8 @@
+75b540fe748b6273d4804ee87a6ec1f8 *DESCRIPTION
+8033f5d689f4af7febcfb377432cc955 *NAMESPACE
+1a32435f30b2b4235678f9d7dbca2cd7 *R/getData.r
+151766669975515158bbab3f0c32adc5 *R/login.r
+c9ee4aa16e27ff069c0a43cadb043bce *man/TDALogin.Rd
+8162b78191d391351053b2210d660de0 *man/TDALogout.Rd
+eafdecd38d2bdbc7128edc3b4a927747 *man/getHistory.Rd
+6f9a14ebbe57a75f7a74466f1fda6087 *man/getSnapQuotesList.Rd
